@@ -14,7 +14,7 @@ public class movebackpack : MonoBehaviour {
 	
 void Start () {
 	
-	checkpoint = new Vector3 (69,-57,-36);
+	checkpoint = new Vector3 (73,-56,-39);
 	
 }
 
