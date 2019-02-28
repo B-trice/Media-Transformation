@@ -8,16 +8,16 @@ Design: Die Umgebung wurde möglichst zeitlos gestaltet. Durch Lichter und Textu
 
 Choices pro Szene/Level: 
 Szene 1 - Auf Turm zulaufen um in die nächste Szene zu kommen oder von der Kante runterfallen und das Level von vorne beginnen. 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/szene1.png)
 
 Szene 2 - In die Nähe des Schlafsacks gehen und Fire2 klicken, um in die nächste Szene zu kommen.
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/szene2.png)
 
 Szene 3 - In die Nähe des Rucksackes gehen und Fire2 klicken, um den Rucksack auf die Treppe zu "werfen". Anschließend kann in der Nähe des Fahrrads Fire2 geklickt werden, um dieses unter die Treppe zu bewegen. In der Nähe der Treppe erneut Fire 2 klicken, um in die nächste Szene zu kommen.
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/szene3.png)
 
 Szene 4 - Auf Leiter zulaufen und diese berühren, um in die nächste Szene zu kommen oder durch das Loch fallen und zurück zu Level 2 gesetzt werden.
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/szene4.png)
 
 Szene 5 - Auf die Tür zugehen und durch diese hindurch um die Umgebung zu beenden oder durch das Loch die Leiter zurück zu Szene 4 klettern. 
 ![alt text](http://url/to/img.png)
