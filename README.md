@@ -34,7 +34,7 @@ Objekte:
 Rucksack - https://archive3d.net/?a=download&id=b9ff2823
 Fahrrad - https://archive3d.net/?a=download&id=881a36b0
 Anhänger - https://archive3d.net/?a=download&id=1fda6583
-Tür - 
+Tür -  https://archive3d.net/?a=download&id=b32f3f1b
 
 Audio: 
 Musik - https://www.purple-planet.com/
