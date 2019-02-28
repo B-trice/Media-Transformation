@@ -137,7 +137,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 366736765}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 530}
+  m_LocalPosition: {x: 0, y: 0, z: 401}
   m_LocalScale: {x: 1.5, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 476090726}
@@ -145,8 +145,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -30}
-  m_SizeDelta: {x: 500, y: 150}
+  m_AnchoredPosition: {x: 0, y: -20}
+  m_SizeDelta: {x: 400, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &366736767
 MonoBehaviour:
@@ -180,13 +180,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1.4
-  m_Text: 'THE END
-
-
-    -PRESS FIRE2 TO EXIT THE GAME-
-
-
-'
+  m_Text: "Drinnen entdeckt Navidson eine Wendeltreppe, die, statt irgendwie aufw\xE4rts
+    oder irgendwie abw\xE4rts zu f\xFChren oder so, auf der Seite liegt und durchgeht
+    durch die Wand die dem Abgrund zugewandt ist.\r\n-press fire2-\n\r\n"
 --- !u!222 &366736768
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -205,7 +201,7 @@ GameObject:
   - component: {fileID: 476090729}
   - component: {fileID: 476090728}
   - component: {fileID: 476090727}
-  - component: {fileID: 476090730}
+  - component: {fileID: 476090731}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -261,7 +257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 200
-  m_ScaleFactor: 2
+  m_ScaleFactor: 2.5
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
@@ -289,7 +285,7 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!114 &476090730
+--- !u!114 &476090731
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -297,9 +293,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 476090725}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8926bed05feeb4ccf9854c9b61e849f0, type: 3}
+  m_Script: {fileID: 11500000, guid: 0032a07062b034c7ca54ac351bb47e42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  LevelName: Scene2
 --- !u!1 &1375081680
 GameObject:
   m_ObjectHideFlags: 0
