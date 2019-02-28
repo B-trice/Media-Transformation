@@ -8,7 +8,7 @@ Design: Die Umgebung wurde möglichst zeitlos gestaltet. Durch Lichter und Textu
 
 Choices pro Szene/Level: 
 Szene 1 - Auf Turm zulaufen um in die nächste Szene zu kommen oder von der Kante runterfallen und das Level von vorne beginnen. 
-![alt text](http://url/to/szene1.png)
+(http://url/to/szene1.png)
 
 Szene 2 - In die Nähe des Schlafsacks gehen und Fire2 klicken, um in die nächste Szene zu kommen.
 ![alt text](http://url/to/szene2.png)
