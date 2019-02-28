@@ -23,8 +23,8 @@ Szene 5 - Auf die Tür zugehen und durch diese hindurch um die Umgebung zu beend
 ![alt text](https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/szene5.png)
 
 Beispiel Text und Interaktion
-![alt text] (https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/TextBeispiel.png)
-![alt text] (https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/InteraktionBeispiel.png)
+![alt text](https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/TextBeispiel.png)
+![alt text](https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/InteraktionBeispiel.png)
 
 Materialien:
 Wände - https://www.poliigon.com/texture/tiles-rectangular-mirror-gray-001
