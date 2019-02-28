@@ -22,6 +22,10 @@ Szene 4 - Auf Leiter zulaufen und diese berühren, um in die nächste Szene zu k
 Szene 5 - Auf die Tür zugehen und durch diese hindurch um die Umgebung zu beenden oder durch das Loch die Leiter zurück zu Szene 4 klettern. 
 ![alt text](https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/szene5.png)
 
+Beispiel Text und Interaktion
+![alt text] (https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/TextBeispiel.png)
+![alt text] (https://github.com/alexandrasophiapetersen/Media-Transformation/blob/master/InteraktionBeispiel.png)
+
 Materialien:
 Wände - https://www.poliigon.com/texture/tiles-rectangular-mirror-gray-001
 Skybox - https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack-day-night-32236
