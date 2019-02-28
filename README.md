@@ -7,11 +7,20 @@ Ziel: VR Umgebung aus der first person perspective (Sicht von Navidson) inkl. In
 Design: Die Umgebung wurde möglichst zeitlos gestaltet. Durch Lichter und Texturen wurde eine möglichst düstere Atmosphäre geschaffen. Da der Fokus auf dem Text des Buches liegt, wurden nur benötigte Objekte eingefügt. Mit Licht werden Text, sowie mögliche Interaktionen hervorgehoben. 
 
 Choices pro Szene/Level: 
-Szene 1 - Auf Turm zulaufen um in die nächste Szene zu kommen oder von der Kante runterfallen und das Level von vorne beginnen.
+Szene 1 - Auf Turm zulaufen um in die nächste Szene zu kommen oder von der Kante runterfallen und das Level von vorne beginnen. 
+![alt text](http://url/to/img.png)
+
 Szene 2 - In die Nähe des Schlafsacks gehen und Fire2 klicken, um in die nächste Szene zu kommen.
+![alt text](http://url/to/img.png)
+
 Szene 3 - In die Nähe des Rucksackes gehen und Fire2 klicken, um den Rucksack auf die Treppe zu "werfen". Anschließend kann in der Nähe des Fahrrads Fire2 geklickt werden, um dieses unter die Treppe zu bewegen. In der Nähe der Treppe erneut Fire 2 klicken, um in die nächste Szene zu kommen.
+![alt text](http://url/to/img.png)
+
 Szene 4 - Auf Leiter zulaufen und diese berühren, um in die nächste Szene zu kommen oder durch das Loch fallen und zurück zu Level 2 gesetzt werden.
+![alt text](http://url/to/img.png)
+
 Szene 5 - Auf die Tür zugehen und durch diese hindurch um die Umgebung zu beenden oder durch das Loch die Leiter zurück zu Szene 4 klettern. 
+![alt text](http://url/to/img.png)
 
 Materialien:
 Wände - https://www.poliigon.com/texture/tiles-rectangular-mirror-gray-001
